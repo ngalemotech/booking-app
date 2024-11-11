@@ -2,6 +2,3 @@
 
 ## What for
 
-lala
-lol
-lall
